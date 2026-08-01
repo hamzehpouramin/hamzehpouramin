@@ -29,30 +29,50 @@ Currently, I'm pursuing a Bachelor's degree in Materials Engineering while conti
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-- React
-- Modern JavaScript (ES6+)
-- Front-End Best Practices
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hamzehpouramin&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzehpouramin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📌 Featured Project
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hamzehpouramin&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/amin-hamzehpour-39b201313/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:hamzehpouramin@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hamzehpouramin&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
 
 ### 🛒 Shop Website
 
 A responsive shopping website built with HTML, CSS, and JavaScript, focused on delivering a clean interface and a seamless user experience.
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/amin-hamzehpour-39b201313" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:hamzehpouramin@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-</p>
